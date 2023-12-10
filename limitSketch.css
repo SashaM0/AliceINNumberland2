@@ -1,0 +1,15 @@
+/* To set the size of the iframe */
+#canvas {
+    width: 620px;
+    height: 620px;
+}
+
+/* To set the position of the iframe */
+.iframe-container {
+    position: relative;
+    top: 319px;
+  left: 100px;
+}
+
+
+
